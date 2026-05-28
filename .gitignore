@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos de Jupyter/VS Code
+.ipynb_checkpoints/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Datos (opcional, si los CSV son muy pesados no los ignores, pero es buena práctica)
+# .DS_Store (si usas Mac)
